@@ -1,0 +1,951 @@
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-14T13:09:46.393Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-14T13:09:46.398Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:01.897Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:02.013Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:02.070Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:05.409Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:05.442Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:06.427Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:06.447Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:08.497Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:08.503Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:36.556Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:36.569Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:40.793Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:10:40.799Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:13:26.594Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:13:26.734Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:13:26.744Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:14:05.592Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:14:05.602Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:14:09.316Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-14T13:14:09.326Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-14T13:15:05.026Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-14T13:15:05.031Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-14T14:06:33.981Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-14T14:06:33.995Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-15T05:50:41.730Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-15T05:50:41.738Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:51:17.612Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:51:17.967Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:51:18.015Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:51:24.546Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:51:27.142Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:03.919Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:03.952Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:14.537Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:14.563Z"}
+{"level":"info","message":"DELETE /api/admin/faculty/693e910c77bf5b4c59302fe7 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:27.348Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:27.422Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:31.008Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:31.033Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:34.512Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:52:34.587Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:04.125Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:04.346Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:04.370Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:11.533Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:11.596Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:22.633Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:22.654Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:54.867Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:53:54.889Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:20.204Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:24.704Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:37.143Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:37.164Z"}
+{"level":"info","message":"PUT /api/academic/693e572a68f282530c22dfcb/attempts/1 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:46.620Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:48.974Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:56.218Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfd1 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:54:56.237Z"}
+{"level":"info","message":"POST /api/wetlab/693e572a68f282530c22dfd1/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:13.767Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfd1 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:15.678Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.525Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.801Z"}
+{"level":"info","message":"GET /api/surgery/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.808Z"}
+{"level":"info","message":"GET /api/wetlab/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.815Z"}
+{"level":"info","message":"GET /api/academic/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.821Z"}
+{"level":"info","message":"GET /api/wetlab/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.866Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.878Z"}
+{"level":"info","message":"GET /api/surgery/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.886Z"}
+{"level":"info","message":"GET /api/academic/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:55:31.891Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:13.687Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:13.710Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.399Z"}
+{"level":"info","message":"GET /api/surgery/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.417Z"}
+{"level":"info","message":"GET /api/wetlab/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.427Z"}
+{"level":"info","message":"GET /api/academic/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.434Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.483Z"}
+{"level":"info","message":"GET /api/wetlab/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.494Z"}
+{"level":"info","message":"GET /api/surgery/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.509Z"}
+{"level":"info","message":"GET /api/academic/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:56:15.519Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:57:17.052Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:57:17.063Z"}
+{"level":"info","message":"GET /api/surgery/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:57:20.564Z"}
+{"level":"info","message":"GET /api/wetlab/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:57:25.710Z"}
+{"level":"info","message":"GET /api/academic/693c6eaddd39cd27768ca8d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-15T05:57:27.565Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-15T06:08:11.868Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-15T06:08:11.881Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-19T08:27:52.577Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-19T08:27:52.584Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:28:44.335Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:28:44.582Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:28:44.678Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:04.594Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:04.627Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:07.924Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:07.933Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:12.304Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:12.327Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:19.656Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:19.738Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:19.749Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:21.518Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:29:21.526Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:44.066Z"}
+{"level":"info","message":"Email sent: <5b358746-e220-7b1e-adcb-8dbaead74f02@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:48.782Z"}
+{"level":"info","message":"Email sent: <fe70c180-7e96-e755-16d3-12775f02aede@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:48.784Z"}
+{"level":"info","message":"Email sent: <30891af2-d1b8-9cd4-dbc7-7942e8edc40b@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:48.935Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:49.044Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:49.054Z"}
+{"level":"info","message":"Email sent: <25e580e3-c2f9-a878-cff1-9bc4a5a6f8cd@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T08:32:49.070Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:00.396Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.335Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.453Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.455Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.458Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.461Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.483Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.613Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.652Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:40.681Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:50.761Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:50.767Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:34:59.978Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:00.078Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:00.087Z"}
+{"level":"info","message":"GET /api/interns/validate/073 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:11.656Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e35 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:11.667Z"}
+{"level":"info","message":"GET /api/interns/validate/088 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:29.875Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:29.885Z"}
+{"level":"info","message":"GET /api/interns/validate/088 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:37.768Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:37.778Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:48.985Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:35:51.957Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.378Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.464Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.466Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.468Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.471Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.481Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.483Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.485Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:03.486Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e3b/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:15.682Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:25.362Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:25.465Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:25.474Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:30.834Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e3b - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:36:30.851Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:05.740Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:05.862Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:05.874Z"}
+{"level":"info","message":"GET /api/interns/validate/103 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:14.482Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:14.494Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:25.913Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:37:28.729Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:10.401Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:29.525Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.323Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.454Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.456Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.458Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.460Z"}
+{"level":"info","message":"GET /api/surgery/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.474Z"}
+{"level":"info","message":"GET /api/wetlab/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.477Z"}
+{"level":"info","message":"GET /api/academic/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.480Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:38:59.487Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:39:06.807Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:39:06.813Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/69450daccbd431a416be2e32/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T08:39:13.275Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:42:38.219Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:43:35.343Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:43:35.576Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:43:35.617Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:43:53.077Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:43:53.088Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:01.722Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:01.746Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:28.310Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:28.321Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:31.380Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:31.388Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e35 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:36.910Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e35 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:36.924Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:51.415Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:51.424Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:54.336Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:54.345Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:58.887Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:44:58.894Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:03.359Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:03.409Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:26.870Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:26.882Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:31.654Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:31.691Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:32.745Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:32.753Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:33.430Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:33.440Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:34.252Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:34.283Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e35 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:35.006Z"}
+{"level":"info","message":"GET /api/performance/69450daccbd431a416be2e35 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:35.020Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:36.220Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:45:36.229Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:46:56.219Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:46:56.331Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:46:56.348Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:47:13.070Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:47:13.079Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:47:47.483Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:47:47.493Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:48:38.560Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:48:38.572Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:48:56.145Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T09:48:56.155Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:12:40.421Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:12:40.601Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:12:40.609Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:12:43.429Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:12:43.436Z"}
+{"level":"info","message":"POST /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:13:14.036Z"}
+{"level":"info","message":"POST /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:13:17.038Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":"vmhugarrr03@gmail.com"},"level":"error","message":"Create Faculty Error: E11000 duplicate key error collection: pg-assessment-tool.users index: email_1 dup key: { email: \"vmhugarrr03@gmail.com\" }","service":"pg-assessment-tool","stack":"MongoServerError: E11000 duplicate key error collection: pg-assessment-tool.users index: email_1 dup key: { email: \"vmhugarrr03@gmail.com\" }\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\operations\\insert.js:53:33\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:333:25\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:207:17\n    at handleOperationResult (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:323:20)\n    at Connection.onMessage (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:243:9)\n    at MessageStream.<anonymous> (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:125:16)\n    at MessageStream._write (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:572:12)\n    at _write (node:internal/streams/writable:501:10)\n    at Writable.write (node:internal/streams/writable:510:10)\n    at Socket.ondata (node:internal/streams/readable:1009:22)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2025-12-19T10:13:17.126Z"}
+{"level":"info","message":"Email sent: <f03c5d7d-95c1-ef98-9855-602b4c836c48@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T10:13:18.831Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:13:18.841Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:15:51.922Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:15:52.034Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:15:52.045Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:16:17.620Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:16:17.630Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:16:40.574Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:16:53.513Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.442Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.565Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.568Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.571Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.574Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.589Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.591Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.593Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:09.595Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfc8/attempts/11/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:19.009Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:29.402Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:29.514Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:29.523Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:35.114Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfc8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:17:35.134Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:13.015Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:13.193Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:13.211Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:20.799Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:20.814Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:28.989Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:46:28.996Z"}
+{"level":"info","message":"POST /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:06.082Z"}
+{"level":"info","message":"Email sent: <969fd46f-6dbd-c6a6-9e78-ddeebb5fedba@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:10.343Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:10.352Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:59.536Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:59.633Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:47:59.651Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:08.633Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:08.727Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:08.744Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:17.691Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:17.706Z"}
+{"level":"info","message":"GET /api/admin/export/intern/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:48:32.098Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:49:18.405Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:49:18.418Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:08.910Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:12.225Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:37.362Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:39.157Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.534Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.645Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.657Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.660Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.662Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.673Z"}
+{"level":"info","message":"GET /api/academic/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.675Z"}
+{"level":"info","message":"GET /api/surgery/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.687Z"}
+{"level":"info","message":"GET /api/wetlab/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:50:57.689Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/693e572a68f282530c22dfcb/attempts/4/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:14.219Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:22.096Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:22.200Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:22.228Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:26.068Z"}
+{"level":"info","message":"GET /api/performance/693e572a68f282530c22dfcb - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:26.087Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:47.739Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:47.858Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:47.885Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-19T10:51:55.062Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-19T11:00:50.686Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-19T11:00:50.691Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:12.502Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:12.506Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:33.725Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:33.972Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:34.033Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:36.847Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:36.894Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:50.738Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:50.751Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:55.847Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:19:55.862Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:07.168Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:07.178Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:18.634Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:18.646Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:20.289Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:20.301Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:21.429Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:21.447Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:23.287Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:23.297Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:24.955Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:24.969Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:26.509Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:26.519Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:28.764Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:20:28.773Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:21:41.459Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:21:41.469Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:21:44.606Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:21:44.616Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:22:03.045Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:22:03.052Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:22:03.995Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:22:04.006Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:09.686Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:12.656Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:12.665Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:17.087Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:17.102Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:23.048Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:23.059Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:25.166Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:25.177Z"}
+{"address":"172.253.118.108","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Email Send Error: connect ETIMEDOUT 172.253.118.108:587","port":587,"service":"pg-assessment-tool","stack":"Error: connect ETIMEDOUT 172.253.118.108:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1634:16)","syscall":"connect","timestamp":"2025-12-29T04:25:31.018Z"}
+{"level":"warn","message":"[FALLBACK] To: abhishekb9812@gmail.com | Pwd: 24E99550","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:31.019Z"}
+{"address":"172.253.118.108","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Email Send Error: connect ETIMEDOUT 172.253.118.108:587","port":587,"service":"pg-assessment-tool","stack":"Error: connect ETIMEDOUT 172.253.118.108:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1634:16)","syscall":"connect","timestamp":"2025-12-29T04:25:31.032Z"}
+{"level":"warn","message":"[FALLBACK] To: madapurpooja@gmail.com | Pwd: 19C1BD33","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:31.033Z"}
+{"address":"172.253.118.108","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Email Send Error: connect ETIMEDOUT 172.253.118.108:587","port":587,"service":"pg-assessment-tool","stack":"Error: connect ETIMEDOUT 172.253.118.108:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1634:16)","syscall":"connect","timestamp":"2025-12-29T04:25:31.156Z"}
+{"level":"warn","message":"[FALLBACK] To: arunmadapur123@gmail.com | Pwd: 3E111F8E","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:31.158Z"}
+{"address":"172.253.118.108","code":"ESOCKET","command":"CONN","errno":-4039,"level":"error","message":"Email Send Error: connect ETIMEDOUT 172.253.118.108:587","port":587,"service":"pg-assessment-tool","stack":"Error: connect ETIMEDOUT 172.253.118.108:587\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1634:16)","syscall":"connect","timestamp":"2025-12-29T04:25:31.267Z"}
+{"level":"warn","message":"[FALLBACK] To: kruti1200@gmail.com | Pwd: A38B06F4","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:31.269Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:46.499Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:46.506Z"}
+{"level":"info","message":"DELETE /api/admin/faculty/69452d2acbd431a416be32b8 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:58.979Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:25:58.996Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:08.274Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:08.288Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:13.077Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:13.088Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:24.070Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:24.086Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:32.934Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:26:32.945Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:45:06.508Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:45:45.477Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:45:45.487Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:45:47.972Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:45:54.481Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:23.444Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:23.456Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:26.426Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:26.437Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:38.940Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:38.957Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:47.097Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:47.106Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:49.877Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:46:49.891Z"}
+{"level":"info","message":"DELETE /api/admin/batches/695202a5b09acf2c283054e9 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:02.421Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:05.789Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:05.802Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:09.130Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:09.143Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:20.967Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:20.976Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:24.841Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:47:24.852Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T04:57:51.116Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T04:57:51.121Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:58:17.323Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:05.990Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:06.006Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:07.842Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:07.880Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:16.741Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:16.748Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:18.633Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:18.650Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:25.554Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:25.566Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:26.529Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T04:59:26.542Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:08.442Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:10.958Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:10.969Z"}
+{"level":"info","message":"Email sent: <fff42a9d-91e9-2d58-42ff-a1ee42206702@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:12.039Z"}
+{"level":"info","message":"Email sent: <8b4506b4-3240-18c8-1d1e-3f778cd36703@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:12.318Z"}
+{"level":"info","message":"Email sent: <9ff59009-1af2-21f7-0c9f-8b8af9049f73@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:12.391Z"}
+{"level":"info","message":"Email sent: <401284dc-5c57-1918-7efe-8f2fb7747a14@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:12.866Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:14.798Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:14.810Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69520b1412760821e94ae0d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:23.413Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:31.137Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:01:31.154Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:02:51.376Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:02:51.388Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:02:55.449Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:02:55.462Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:03:02.592Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:03:02.597Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:22.800Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:22.877Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:27.292Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:27.317Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:38.971Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:38.984Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:41.650Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:41.669Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:46.240Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:46.253Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:50.012Z"}
+{"level":"info","message":"GET /api/admin/export/batch/69520b1412760821e94ae0d0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:04:58.979Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:05:17.064Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:05:17.081Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:33.232Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:33.243Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:34.683Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:37.967Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:37.982Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:44.004Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:44.020Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:48.140Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:48.151Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:49.870Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:06:49.882Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69520b1412760821e94ae0d0/permanent - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:07:21.203Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:25.410Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:25.422Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:27.976Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:27.986Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:29.433Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:29.441Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:32.794Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:08:32.804Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:11:39.901Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:11:39.906Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:14.860Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:14.896Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:29.959Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:29.990Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:32.685Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:32.699Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:34.369Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:34.380Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:36.456Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:36.471Z"}
+{"level":"info","message":"GET /api/admin/export/batch/69450daccbd431a416be2e2f - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:37.889Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:12:43.953Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:17.771Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:17.776Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:19.699Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:19.704Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:40.166Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:15:40.171Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:16:12.898Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:16:12.949Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:16:15.631Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:27.915Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:27.919Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:29.906Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:29.910Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:55.888Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:55.893Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:57.977Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:18:57.982Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:19:14.276Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:19:14.342Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:19:16.213Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:22:01.181Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:22:01.186Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T05:22:42.826Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T05:22:42.830Z"}
+{"level":"info","message":"GET /api/admin/export/batch/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:23:18.127Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:15.401Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:15.416Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:22.043Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:22.059Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69450daccbd431a416be2e2f - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:30.361Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69450daccbd431a416be2e2f/permanent - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:42.469Z"}
+{"level":"info","message":"DELETE /api/admin/batches/693e572a68f282530c22dfc5 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:47.353Z"}
+{"level":"info","message":"DELETE /api/admin/batches/693e572a68f282530c22dfc5/permanent - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:24:57.443Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:32.519Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:32.531Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:36.852Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:36.862Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:40.630Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:40.641Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:42.040Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:42.046Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:53.055Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:53.224Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:27:53.233Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:05.849Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:20.691Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:22.733Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:41.630Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:41.765Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:41.775Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:44.193Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:28:44.199Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:32:32.828Z"}
+{"level":"error","message":"Create Batch Error: User with email manikantsadaragunchi1805@gmail.com already exists","service":"pg-assessment-tool","stack":"Error: User with email manikantsadaragunchi1805@gmail.com already exists\n    at exports.createBatch (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\src\\controllers\\admin.controller.js:92:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-29T05:32:32.847Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:32:57.622Z"}
+{"level":"error","message":"Create Batch Error: User with email devaraguddayashwitha815@gmail.com already exists","service":"pg-assessment-tool","stack":"Error: User with email devaraguddayashwitha815@gmail.com already exists\n    at exports.createBatch (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\src\\controllers\\admin.controller.js:92:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-29T05:32:57.903Z"}
+{"level":"info","message":"Email sent: <2407a228-b69e-c4e0-f421-4f70c5a5638f@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:33:01.292Z"}
+{"level":"info","message":"Email sent: <d6367c8d-0c56-a49f-b6b4-fd8f75904601@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:33:01.394Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:35:57.383Z"}
+{"level":"error","message":"Create Batch Error: User with email harishpulaskar1@gmail.com already exists","service":"pg-assessment-tool","stack":"Error: User with email harishpulaskar1@gmail.com already exists\n    at exports.createBatch (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\src\\controllers\\admin.controller.js:92:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-12-29T05:35:57.777Z"}
+{"level":"info","message":"Email sent: <95bcb6b8-e660-4bfc-b62e-86afeecbe855@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:00.463Z"}
+{"level":"info","message":"Email sent: <730001ad-7a3e-040b-e343-12589c521a51@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:00.719Z"}
+{"level":"info","message":"Email sent: <5c7f672b-a93d-a677-c6f5-af328483f3b6@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:00.864Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:13.609Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:16.180Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:16.190Z"}
+{"level":"info","message":"Email sent: <f8cb9651-9772-8b20-eb9c-6cacfc562fdb@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:16.897Z"}
+{"level":"info","message":"Email sent: <37deae8f-a71c-1ee0-2b73-d20aa16a4b44@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:16.958Z"}
+{"level":"info","message":"Email sent: <e0fcd253-2a96-ffc7-7ef3-885e131a4d44@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:17.096Z"}
+{"level":"info","message":"Email sent: <5c98a028-4ec6-0e8c-d0ff-8289245ad7ef@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:17.881Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:19.061Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:19.075Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:23.443Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:23.451Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:27.051Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:27.060Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:34.884Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:35.030Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:35.043Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:42.103Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:36:42.118Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:37:41.951Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:37:43.604Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:37:59.161Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:37:59.175Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:11.882Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:13.536Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:23.485Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:25.168Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:36.687Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:38.386Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:53.411Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:38:55.647Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:40:43.375Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:40:43.389Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:40:51.800Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:40:51.812Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:04.346Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:04.361Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:16.423Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:17.996Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:27.802Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:29.551Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:39.834Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:46.900Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:41:58.519Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:00.062Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:17.920Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:17.935Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:22.313Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:22.326Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:55.630Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:42:57.103Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:43:28.252Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:43:29.874Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:44:46.988Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:44:48.653Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:30.841Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:32.586Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:38.391Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:38.404Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:48.405Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:46:50.046Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:02.054Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:03.527Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:16.963Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:19.263Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:26.536Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:26.550Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:29.846Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:29.863Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:32.453Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:32.463Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:35.203Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:35.230Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:44.643Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:47:44.654Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:48:07.365Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:48:07.379Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:49:47.903Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:49:49.259Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:50:46.913Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:50:48.688Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:00.474Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:00.487Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:15.963Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:17.219Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:26.404Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:27.980Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:40.490Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:42.162Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:49.846Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:51:49.860Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:52:28.452Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:52:30.683Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:53:46.092Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:53:47.589Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:24.875Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:26.573Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:34.661Z"}
+{"level":"info","message":"GET /api/interns/validate/109 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:34.670Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:34.676Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:34.688Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:44.225Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:45.506Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:56.067Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:54:57.346Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:05.809Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:07.121Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:18.088Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:19.465Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e0/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:32.561Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:33.978Z"}
+{"level":"info","message":"GET /api/interns/validate/127 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:54.510Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:55:54.524Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:57:24.941Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:57:26.533Z"}
+{"level":"info","message":"GET /api/interns/validate/127 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:57:41.733Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:57:41.747Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:13.050Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:14.545Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:26.116Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:27.470Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:38.793Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:40.515Z"}
+{"level":"info","message":"GET /api/interns/validate/127 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:48.296Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:58:48.311Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:59:20.369Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:59:22.142Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T05:59:58.704Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:00.144Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:25.780Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:27.357Z"}
+{"level":"info","message":"GET /api/interns/validate/127 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:32.755Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:32.767Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:44.178Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:45.582Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:56.715Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:00:58.247Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:15.196Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:16.560Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:29.519Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:30.783Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:33.576Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:33.586Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:37.961Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:01:37.975Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:02:30.242Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:02:32.150Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:02:49.996Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:02:50.007Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:00.308Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:02.010Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:13.317Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:14.940Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:26.213Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:27.976Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:43.625Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:03:45.322Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:17.115Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:18.675Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:28.293Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:28.304Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:59.069Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:04:59.080Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:11.951Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:13.762Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:36.583Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:37.879Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:55.755Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:05:57.735Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:06:04.277Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:06:04.288Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:06:08.330Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:06:08.341Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:07:23.729Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:07:25.263Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:08:13.385Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:08:14.730Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:08:52.827Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:08:54.418Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:00.048Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:00.062Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:04.019Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:04.030Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:07.816Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:07.827Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:20.689Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:20.700Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:22.987Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:22.997Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:25.855Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:09:25.866Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:10:23.820Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:10:35.218Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:10:44.416Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:10:46.224Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:30.786Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:30.986Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:30.989Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:30.991Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:30.992Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:31.008Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:31.010Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:31.012Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:31.013Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:40.708Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:40.718Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:45.276Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:49.554Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:11:52.905Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e6/attempts/3/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:04.185Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e6/attempts/2/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:07.596Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:09.024Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:22.827Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343e6/attempts/2/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:29.095Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:31.244Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e6/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:35.977Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:40.912Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts/5/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:44.583Z"}
+{"level":"info","message":"POST /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6/attempts/4/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:47.713Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.653Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.656Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.658Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.659Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.672Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.674Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.676Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:49.678Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:57.471Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:57.570Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:12:57.580Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:00.220Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:00.244Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:33.345Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:33.355Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:38.813Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:13:38.823Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.403Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.564Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.567Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.574Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.576Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.595Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.598Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.600Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:14:58.602Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts/3/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:08.706Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts/4/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:11.813Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:15.704Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:21.312Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:21.322Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:22.449Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:27.393Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:28.330Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:32.415Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:43.215Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:52.818Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:52.884Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:54.760Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:15:58.165Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:01.899Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:04.814Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343dd/attempts/2/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:46.161Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:52.759Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:52.867Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:16:52.875Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:17:03.721Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:17:03.739Z"}
+{"level":"info","message":"GET /api/admin/export/intern/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:17:16.284Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:17:50.051Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:17:50.060Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:17.191Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:17.283Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:17.303Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:22.102Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:22.112Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:27.268Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:27.277Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:36.031Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e0 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:36.051Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:39.229Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:39.236Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:54.268Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:19:54.277Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:20:39.193Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:20:39.203Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:21:26.599Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.454Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.657Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.670Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.673Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.675Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.689Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.692Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.695Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:22:57.696Z"}
+{"level":"info","message":"POST /api/academic/6952134d3672d36de56343e3/attempts/3/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:04.180Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:08.087Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:09.710Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:09.720Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:12.113Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:15.520Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:17.061Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:18.990Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343e3/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:23:23.016Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T06:28:19.330Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T06:28:19.335Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T06:29:10.216Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T06:29:10.221Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:29:18.227Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e3 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:29:18.502Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.537Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.707Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.710Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.712Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.715Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.734Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.737Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.748Z"}
+{"level":"info","message":"GET /api/academic/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:28.751Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:36.354Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:36.365Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:38.788Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:34:42.577Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T06:35:17.052Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T06:35:17.060Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:06.478Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:06.516Z"}
+{"level":"info","message":"GET /api/wetlab/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:10.306Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:13.652Z"}
+{"level":"info","message":"POST /api/wetlab/6952134d3672d36de56343dd/attempts/1/acknowledge - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:21.856Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:34.196Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:34.400Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:34.419Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:36.993Z"}
+{"level":"info","message":"GET /api/admin/export/batch/6952134d3672d36de56343da - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:44.321Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:48.562Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:48.574Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:50.754Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:50.767Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:52.341Z"}
+{"level":"info","message":"GET /api/admin/export/batch/6952134d3672d36de56343da - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T06:36:54.188Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T06:44:06.689Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T06:44:06.694Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T09:19:06.068Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T09:19:06.074Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c667ebb1f3f1515d84687 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:19:23.543Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/693c667ebb1f3f1515d84687 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:19:23.598Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:35.738Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:35.896Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:35.912Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:38.753Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:38.789Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:43.282Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:43.293Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:45.119Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:30:45.141Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:53.236Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:55.402Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:55.412Z"}
+{"level":"info","message":"Email sent: <9e88e366-9e65-1c5f-4065-2f06f212cf69@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:57.547Z"}
+{"level":"info","message":"Email sent: <c3599b0b-caed-fbe4-1430-616de934ff38@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:57.693Z"}
+{"level":"info","message":"Email sent: <c87a0501-8690-7324-64ab-a1e46b4b7e93@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:57.849Z"}
+{"level":"info","message":"Email sent: <2bbd7857-14e9-bd5b-ed46-e746dd9a384e@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:32:57.998Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:33:01.287Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:33:01.297Z"}
+{"level":"info","message":"POST /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:23.450Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:25.242Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:25.250Z"}
+{"level":"info","message":"Email sent: <d862d60c-0030-8cff-5026-a355bcc97e76@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:26.902Z"}
+{"level":"info","message":"Email sent: <6bd0109a-fd58-d666-3548-50472ebb1ae8@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:26.910Z"}
+{"level":"info","message":"Email sent: <ba9c5f49-ed61-d542-0ce9-1b33d0f96679@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:27.040Z"}
+{"level":"info","message":"Email sent: <d59cbf46-0278-09cb-c493-cf728235756e@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:27.801Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:29.067Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:29.090Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69524b5b0196b4332cfefd8d - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:40.046Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:54.218Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:54.226Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:56.364Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:56.376Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:59.103Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:59.122Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:59.679Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:35:59.685Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:36:00.416Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:36:00.425Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:36:01.202Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:36:01.212Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-29T09:53:04.988Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-29T09:53:04.993Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:58:22.858Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:58:23.105Z"}
+{"level":"info","message":"GET /api/admin/stats - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:58:23.203Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:58:33.829Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:58:33.878Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:01.648Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:01.666Z"}
+{"level":"info","message":"POST /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:44.191Z"}
+{"level":"info","message":"POST /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:46.609Z"}
+{"code":11000,"index":0,"keyPattern":{"email":1},"keyValue":{"email":"ranishettysdmcet@gmail.com"},"level":"error","message":"Create Faculty Error: E11000 duplicate key error collection: pg-assessment-tool.users index: email_1 dup key: { email: \"ranishettysdmcet@gmail.com\" }","service":"pg-assessment-tool","stack":"MongoServerError: E11000 duplicate key error collection: pg-assessment-tool.users index: email_1 dup key: { email: \"ranishettysdmcet@gmail.com\" }\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\operations\\insert.js:53:33\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection_pool.js:333:25\n    at C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:207:17\n    at handleOperationResult (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\sdam\\server.js:323:20)\n    at Connection.onMessage (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:243:9)\n    at MessageStream.<anonymous> (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\connection.js:61:60)\n    at MessageStream.emit (node:events:518:28)\n    at processIncomingData (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:125:16)\n    at MessageStream._write (C:\\Users\\manik\\OneDrive\\Desktop\\pg-assessment-tool\\backend\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:572:12)\n    at _write (node:internal/streams/writable:501:10)\n    at Writable.write (node:internal/streams/writable:510:10)\n    at Socket.ondata (node:internal/streams/readable:1009:22)\n    at Socket.emit (node:events:518:28)\n    at addChunk (node:internal/streams/readable:561:12)\n    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)","timestamp":"2025-12-29T09:59:46.816Z"}
+{"level":"info","message":"Email sent: <52a7a758-1546-4fd8-1e30-ac7670f9d896@sdmmedical.edu>","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:49.282Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T09:59:49.344Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:05.736Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:05.759Z"}
+{"level":"info","message":"DELETE /api/admin/batches/69524b5b0196b4332cfefd8d/permanent - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:17.581Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:39.296Z"}
+{"level":"info","message":"GET /api/admin/faculty - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:39.316Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:41.012Z"}
+{"level":"info","message":"GET /api/admin/batches - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:41.031Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:42.274Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:42.295Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:58.160Z"}
+{"level":"info","message":"GET /api/performance/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:00:58.276Z"}
+{"level":"info","message":"GET /api/admin/export/intern/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:01:19.810Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:03:08.643Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:03:08.895Z"}
+{"level":"info","message":"GET /api/admin/interns - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:03:08.911Z"}
+{"level":"info","message":"GET /api/interns/validate/054 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:03:32.785Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:03:32.804Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:04:28.080Z"}
+{"level":"info","message":"POST /api/surgery/6952134d3672d36de56343dd/attempts - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:05:12.407Z"}
+{"level":"info","message":"GET /api/surgery/6952134d3672d36de56343dd - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:05:14.099Z"}
+{"level":"info","message":"GET /api/interns/validate/405 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:05:20.908Z"}
+{"level":"info","message":"GET /api/opd/GENERAL_SURGERY_OPD/6952134d3672d36de56343e6 - ::1","service":"pg-assessment-tool","timestamp":"2025-12-29T10:05:20.924Z"}
+{"level":"warn","message":"Firebase ServiceAccountKey.json not found and ENV Not set. Auth verification will fail.","service":"pg-assessment-tool","timestamp":"2025-12-30T07:49:15.337Z"}
+{"level":"info","message":"Server running in development mode on port 5000","service":"pg-assessment-tool","timestamp":"2025-12-30T07:49:15.342Z"}
